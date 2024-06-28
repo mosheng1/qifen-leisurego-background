@@ -1,0 +1,1 @@
+import{_ as e,c as o,a as t}from"./index-Dhh0PuZ4.js";const a={class:"container"},c={__name:"Violation",setup(s){return(_,n)=>(t(),o("div",a))}},i=e(c,[["__scopeId","data-v-e4ae0e64"]]);export{i as default};
