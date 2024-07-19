@@ -1,0 +1,1 @@
+import{H as e}from"./index-DQbwl3Hd.js";const n=""+new URL("logo-C4coM9fw.svg",import.meta.url).href,a=({username:o,password:s})=>e.post("/bg/login",{username:o,password:s}),p=o=>e.post(`/api/bg/user/${o}`),c=({id:o,name:s,username:r,image:t})=>e.post("/api/bg/user/update",{id:o,name:s,username:r,image:t});export{n as _,p as g,c as m,a as u};
